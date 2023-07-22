@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomashoj2001
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning TypeScript and Next.js 13
 
 <!---
 tomashoj2001/tomashoj2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
