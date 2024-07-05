@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomi <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Tomi :)</h1>
 <h3 align="center">A passionate Front-End (and a beginner Back-End) Developer from Argentina</h3>
 
 - 🔭 I’m currently working on <a href="https://git-scm.com/](https://www.coffy.com.ar/" target="_blank"> 
