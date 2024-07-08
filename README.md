@@ -53,8 +53,8 @@
 </p>
 
 <p align= "center">
-  <img height="150" src="https://github-readme-stats-tomashoj2001s-projects.vercel.app/api?username=tomashoj2001&theme=one_dark_pro&show_icons=true&include_all_commits=true&hide=issues,stars&show=prs_merged" />
-  <img height="150" src="https://github-readme-stats-tomashoj2001s-projects.vercel.app/api/top-langs/?username=tomashoj2001&theme=one_dark_pro&layout=compact" />
+  <img height="150" src="https://github-readme-stats-tomashoj2001s-projects.vercel.app/api?username=tomashoj2001&theme=one_dark_pro&border_color=FFFFFF&show_icons=true&include_all_commits=true&hide=issues,stars&show=prs_merged" />
+  <img height="150" src="https://github-readme-stats-tomashoj2001s-projects.vercel.app/api/top-langs/?username=tomashoj2001&theme=one_dark_pro&border_color=FFFFFF&layout=compact" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomashoj2001&theme=one_dark_pro&exclude_days=Sat%2CSun&excludeDaysLabel=EBEBEB00" />
 </p>
 
