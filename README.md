@@ -54,7 +54,7 @@
 
 <p align= "center">
   <img height="150" src="https://github-readme-stats-tomashoj2001s-projects.vercel.app/api?username=tomashoj2001&theme=one_dark_pro&show_icons=true&include_all_commits=true&hide=issues,stars&show=prs_merged" />
-  <img height="150" src="https://github-readme-stats-tomashoj2001s-projects.vercel.app/api/top-langs/?username=tomashoj2001&theme=one_dark_pro&layout=compact&size_weight=0.5&count_weight=0.5" />
+  <img height="150" src="https://github-readme-stats-tomashoj2001s-projects.vercel.app/api/top-langs/?username=tomashoj2001&theme=one_dark_pro&layout=compact" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomashoj2001&theme=one_dark_pro&exclude_days=Sat%2CSun&excludeDaysLabel=EBEBEB00" />
 </p>
 
