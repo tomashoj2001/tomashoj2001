@@ -18,8 +18,8 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomás-hojnadel-83495b249)
 [![image](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014d699c9441313fbb?viewMode=1)
-<!--- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomashojnadel@gmail.com) --->
 [![image](https://img.shields.io/badge/Front%20End%20Mentor-5FE6FF?style=for-the-badge&logo=frontendmentor&logoColor=black)](https://www.frontendmentor.io/profile/tomashoj2001)
+<!--- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomashojnadel@gmail.com) --->
   
 </div>
 
