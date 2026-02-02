@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tomi :)</h1>
-<h3 align="center">A passionate Front-End (and a beginner Back-End) Developer from Argentina</h3>
+<h3 align="center">A passionate Front-End Developer from Argentina</h3>
 
 - 🔭 I’m currently working on <a href="https://www.coffy.com.ar/" target="_blank"> 
-    **Coffy**
+    **Habitia**
   </a>
 
-- 🌱 I’m currently learning **NextJS, Typescript and NodeJS**
+- 🌱 I’m currently learning **NextJS and Typescript** at production level.
 
-- 👯 I’m looking to collaborate on **front-end projects**
+- 👯 I’m looking to collaborate on **front-end projects**.
 
-- 📫 How to reach me: **tomashojnadel@gmail.com**
+- 📫 How to reach me: **tomashojnadel@gmail.com**.
 
 - ⚡ What I like to do: **I like so much reading, training at the gym and playing the guitar...and coding of course**
 
@@ -18,7 +18,7 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomás-hojnadel-83495b249)
 [![image](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014d699c9441313fbb?viewMode=1)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomashojnadel@gmail.com)
+<!--- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomashojnadel@gmail.com) --->
 [![image](https://img.shields.io/badge/Front%20End%20Mentor-5FE6FF?style=for-the-badge&logo=frontendmentor&logoColor=black)](https://www.frontendmentor.io/profile/tomashoj2001)
   
 </div>
