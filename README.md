@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomi :)</h1>
 <h3 align="center">A passionate Front-End Developer from Argentina</h3>
 
-- 🔭 I’m currently working on <a href="https://admin-rouge-three.vercel.app/login?redirect_url=https%3A%2F%2Fadmin-rouge-three.vercel.app%2F" target="_blank"> 
-    **Habitia**
-  </a> - the next web tool for Real State agencies.
+- 🔭 I’m currently working on **Habitia** - the next web tool for Real State agencies.
 
 - 🌱 I’m currently learning **NextJS and Typescript** at production level.
 
