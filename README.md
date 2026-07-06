@@ -1,60 +1,104 @@
-<h1 align="center">Hi 👋, I'm Tomi :)</h1>
-<h3 align="center">A passionate Front-End Developer from Argentina</h3>
+<h1 align="center">Hi 👋 I'm Tomi</h1>
 
-- 🔭 I’m currently working on **Habitia** - the next SAAS for Real State agencies.
-
-- 🌱 I’m currently learning **NextJS and Typescript** at production level.
-
-- 📫 How to reach me: **tomashojnadel@gmail.com**.
-
-- ⚡ What I like to do: **I like so much reading, training at the gym and playing the guitar...and coding of course**
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-hojnadel)
-[![image](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014d699c9441313fbb?viewMode=1)
-[![image](https://img.shields.io/badge/Front%20End%20Mentor-5FE6FF?style=for-the-badge&logo=frontendmentor&logoColor=black)](https://www.frontendmentor.io/profile/tomashoj2001)
-<!--- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomashojnadel@gmail.com) --->
-  
-</div>
-
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-    <a href="https://www.typescriptlang.org/docs/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://react.dev/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
+<p align="center">
+Frontend Engineer from 🇦🇷 Argentina
+<br />
+Building polished web and mobile experiences with React & React Native.
 </p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/tomas-hojnadel">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.upwork.com/freelancers/~014d699c9441313fbb?viewMode=1">
+<img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
+
+<a href="https://www.frontendmentor.io/profile/tomashoj2001">
+<img src="https://img.shields.io/badge/Frontend_Mentor-5FE6FF?style=for-the-badge&logo=frontendmentor&logoColor=black" />
+</a>
+</p>
+
+---
+
+## 👨‍💻 About me
+
+- 🚀 Frontend Engineer with **2+ years of professional experience**
+- ⚛️ Specialized in **React, React Native and TypeScript**
+- 🌱 Currently deepening my knowledge of **AI Workflow Implementations**
+- 🎯 Passionate about creating polished user experiences and writing clean, maintainable code
+- 📫 Reach me at **tomashojnadel@gmail.com**
+
+Outside of coding you'll probably find me lifting at the gym, reading, playing guitar or enjoying board games with friends.
+
+---
+
+## 🚀 Featured Projects
+
+<h3><a href="https://wavelength-game.fun" target="_blank">🎲 Wavelength Online</a></h3>
+
+A recreation of the popular board game Wavelength that lets friends play together online.
+
+**Tech Stack**
+
+- React
+- TypeScript
+- Tailwind CSS
+
+---
+
+<h3><a href="https://fhojnadel.com" target="_blank">👡 Landing Page for wholesale shoe seller</a></h3>
+
+A modern Landing Page with exquisite design.
+
+**Lighthouse test:**
+
+- 100/100 Performance
+- 100/100 Accessibility
+- 100/100 SEO
+- 100/100 Best practices
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="42" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" />
+
+</p>
+
+---
+
+## 📈 GitHub Stats
 
 <p align= "center">
-  <img height="150" src="https://github-readme-stats-tomashoj2001s-projects.vercel.app/api?username=tomashoj2001&theme=one_dark_pro&border_color=FFFFFF&show_icons=true&include_all_commits=true&hide=issues,stars&show=prs_merged" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=tomashoj2001&theme=one_dark_pro&exclude_days=Sat%2CSun&excludeDaysLabel=EBEBEB00" />
   <img height="150" src="https://github-readme-stats-tomashoj2001s-projects.vercel.app/api/top-langs/?username=tomashoj2001&theme=one_dark_pro&border_color=FFFFFF&layout=compact" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomashoj2001&theme=one_dark_pro&exclude_days=Sat%2CSun&excludeDaysLabel=EBEBEB00" />
 </p>
 
-<!---
-tomashoj2001/tomashoj2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in meeting other developers, collaborating on interesting projects, and discussing frontend engineering.
+
+<p align="center">
+
+<a href="mailto:tomashojnadel@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tomas-hojnadel">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
