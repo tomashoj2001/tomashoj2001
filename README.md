@@ -73,7 +73,7 @@ A recreation of the popular board game **Wavelength**, allowing friends to play 
 
 <p align="center">
 <a href="https://fhojnadel.com">
-<img src="./assets/landing.png" width="900" alt="Landing Page"/>
+<img src="./assets/landing.gif" width="900" alt="Landing Page"/>
 </a>
 </p>
 
