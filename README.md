@@ -46,6 +46,8 @@ A recreation of the popular board game Wavelength that lets friends play togethe
 - TypeScript
 - Tailwind CSS
 
+<img src="/assets/wavelength.png" alt="Wavelength Game Screenshot" />
+
 ---
 
 <h3><a href="https://fhojnadel.com" target="_blank">👡 Landing Page for wholesale shoe seller</a></h3>
@@ -58,6 +60,8 @@ A modern Landing Page with exquisite design.
 - 100/100 Accessibility
 - 100/100 SEO
 - 100/100 Best practices
+
+<img src="/assets/f-hojnadel.png" alt="F. Hojnadel Landing Page" />
 
 ---
 
