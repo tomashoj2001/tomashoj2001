@@ -61,7 +61,7 @@ A modern Landing Page with exquisite design.
 - 100/100 SEO
 - 100/100 Best practices
 
-<img src="/assets/f-hojnadel.png" alt="F. Hojnadel Landing Page" />
+<img src="/assets/landing.png" alt="F. Hojnadel Landing Page" />
 
 ---
 
