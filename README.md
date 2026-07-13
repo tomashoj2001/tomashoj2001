@@ -77,7 +77,7 @@ A recreation of the popular board game **Wavelength**, allowing friends to play 
 </a>
 </p>
 
-A premium landing page for a wholesale shoe company with a strong focus on performance and user experience.
+A premium landing page for my dad - a wholesale shoe seller -  with a strong focus on performance and user experience.
 
 ### Highlights
 
