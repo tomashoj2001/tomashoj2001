@@ -65,7 +65,7 @@ A recreation of the popular board game **Wavelength**, allowing friends to play 
 - Tailwind CSS
 - Responsive Design
 
-🔗 **Live Demo:** https://wavelength-game.fun
+🔗 **Deployed Game:** https://wavelength-game.fun
 
 ---
 
@@ -89,7 +89,7 @@ A premium landing page for a wholesale shoe company with a strong focus on perfo
 
 ✅ 100 SEO
 
-🔗 **Live Demo:** https://fhojnadel.com
+🔗 **Deployed Landing Page:** https://fhojnadel.com
 
 ---
 
