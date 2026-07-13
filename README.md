@@ -125,6 +125,14 @@ A premium landing page for a wholesale shoe company with a strong focus on perfo
 
 </p>
 
+### AI
+
+<p>
+
+Claude Code
+
+</p>
+
 ---
 ## 📈 GitHub Stats
 <p align= "center">
