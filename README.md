@@ -56,7 +56,7 @@ Currently I'm expanding my knowledge in **AI workflows**, **modern frontend arch
 </a>
 </p>
 
-A recreation of the popular board game **Wavelength**, allowing friends to play together online from anywhere.
+A recreation of the popular board game **Wavelength**, allowing friends to play together when hanging out.
 
 ### Built with
 
