@@ -11,16 +11,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.upwork.com/freelancers/~014d699c9441313fbb?viewMode=1">
-    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-
-  <a href="https://www.frontendmentor.io/profile/tomashoj2001">
-    <img src="https://img.shields.io/badge/Frontend%20Mentor-5FE6FF?style=for-the-badge&logo=frontendmentor&logoColor=black"/>
-  </a>
-
   <a href="mailto:tomashojnadel@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.upwork.com/freelancers/~014d699c9441313fbb?viewMode=1">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
 
@@ -148,12 +144,12 @@ I'm always interested in discussing frontend engineering, startups, side project
 
 <p align="center">
 
-<a href="mailto:tomashojnadel@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/tomas-hojnadel">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tomashojnadel@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.upwork.com/freelancers/~014d699c9441313fbb?viewMode=1">
