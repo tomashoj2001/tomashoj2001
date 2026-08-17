@@ -28,7 +28,7 @@ I'm a **Frontend Engineer with 2+ years of professional experience** building Re
 
 I enjoy transforming ideas into polished products, focusing on clean architecture, performance and delightful user experiences.
 
-Currently I'm expanding my knowledge in **AI workflows**, **modern frontend architecture**, and **system design**, while continuously building personal projects.
+Currently I'm learning backend with Node in order to become a Fullstack Engineer.
 
 ### A few things about me
 
